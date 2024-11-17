@@ -1,1 +1,2 @@
-Open up a time in space, I become the leader of alien kindom.
+Open up a time in space, I become the leader of alien kindom.# No code was selected, so a basic Python program will be inserted
+print("Welcome to the Alien Kingdom!")
